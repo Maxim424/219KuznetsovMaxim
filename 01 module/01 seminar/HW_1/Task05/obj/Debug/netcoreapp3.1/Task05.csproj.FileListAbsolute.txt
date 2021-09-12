@@ -1,0 +1,13 @@
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/Task05/bin/Debug/netcoreapp3.1/Task05.deps.json
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/Task05/bin/Debug/netcoreapp3.1/Task05.runtimeconfig.json
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/Task05/bin/Debug/netcoreapp3.1/Task05.runtimeconfig.dev.json
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/Task05/bin/Debug/netcoreapp3.1/Task05.dll
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/Task05/bin/Debug/netcoreapp3.1/Task05.pdb
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/Task05/obj/Debug/netcoreapp3.1/Task05.csproj.AssemblyReference.cache
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/Task05/obj/Debug/netcoreapp3.1/Task05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/Task05/obj/Debug/netcoreapp3.1/Task05.AssemblyInfoInputs.cache
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/Task05/obj/Debug/netcoreapp3.1/Task05.AssemblyInfo.cs
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/Task05/obj/Debug/netcoreapp3.1/Task05.csproj.CoreCompileInputs.cache
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/Task05/obj/Debug/netcoreapp3.1/Task05.dll
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/Task05/obj/Debug/netcoreapp3.1/Task05.pdb
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/Task05/obj/Debug/netcoreapp3.1/Task05.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/ASCIIDecoder/bin/Debug/netcoreapp3.1/ASCIIDecoder.deps.json
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/ASCIIDecoder/bin/Debug/netcoreapp3.1/ASCIIDecoder.runtimeconfig.json
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/ASCIIDecoder/bin/Debug/netcoreapp3.1/ASCIIDecoder.runtimeconfig.dev.json
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/ASCIIDecoder/bin/Debug/netcoreapp3.1/ASCIIDecoder.dll
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/ASCIIDecoder/bin/Debug/netcoreapp3.1/ASCIIDecoder.pdb
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/ASCIIDecoder/obj/Debug/netcoreapp3.1/ASCIIDecoder.csproj.AssemblyReference.cache
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/ASCIIDecoder/obj/Debug/netcoreapp3.1/ASCIIDecoder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/ASCIIDecoder/obj/Debug/netcoreapp3.1/ASCIIDecoder.AssemblyInfoInputs.cache
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/ASCIIDecoder/obj/Debug/netcoreapp3.1/ASCIIDecoder.AssemblyInfo.cs
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/ASCIIDecoder/obj/Debug/netcoreapp3.1/ASCIIDecoder.csproj.CoreCompileInputs.cache
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/ASCIIDecoder/obj/Debug/netcoreapp3.1/ASCIIDecoder.dll
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/ASCIIDecoder/obj/Debug/netcoreapp3.1/ASCIIDecoder.pdb
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_1/ASCIIDecoder/obj/Debug/netcoreapp3.1/ASCIIDecoder.genruntimeconfig.cache
