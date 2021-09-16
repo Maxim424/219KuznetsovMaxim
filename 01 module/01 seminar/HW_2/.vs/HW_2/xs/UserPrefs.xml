@@ -1,18 +1,17 @@
-﻿<Properties StartupConfiguration="{A1210557-511F-4FE4-98A8-71DBCF7173C6}|Default">
+﻿<Properties StartupConfiguration="{5B91F3DC-28EB-4343-A446-FA465327ECDC}|Default">
   <MonoDevelop.Ide.ItemProperties.Task01 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Task03 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Task03 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Task02 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Task03/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task04/Program.cs">
     <Files>
-      <File FileName="Task03/Program.cs" Line="7" Column="7" />
+      <File FileName="Task03/Program.cs" Line="10" Column="14" />
+      <File FileName="Task04/Program.cs" Line="6" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HW_2" expanded="True">
-            <Node name="Task03" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="Task04" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -20,6 +19,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Task04 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

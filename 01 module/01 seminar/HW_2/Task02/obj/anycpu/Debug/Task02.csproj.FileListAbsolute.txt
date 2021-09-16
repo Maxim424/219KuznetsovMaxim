@@ -4,3 +4,9 @@
 /Users/maximkuznetsov/Projects/HW_2/Task02/obj/anycpu/Debug/Task02.csproj.CoreCompileInputs.cache
 /Users/maximkuznetsov/Projects/HW_2/Task02/obj/anycpu/Debug/Task02.exe
 /Users/maximkuznetsov/Projects/HW_2/Task02/obj/anycpu/Debug/Task02.pdb
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_2/Task02/bin/Debug/Task02.exe
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_2/Task02/bin/Debug/Task02.pdb
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_2/Task02/obj/anycpu/Debug/Task02.csproj.AssemblyReference.cache
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_2/Task02/obj/anycpu/Debug/Task02.csproj.CoreCompileInputs.cache
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_2/Task02/obj/anycpu/Debug/Task02.exe
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/01 seminar/HW_2/Task02/obj/anycpu/Debug/Task02.pdb

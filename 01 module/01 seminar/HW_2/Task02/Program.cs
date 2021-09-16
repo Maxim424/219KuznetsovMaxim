@@ -24,9 +24,15 @@ namespace Task02
             bool flag;
             do
             {
-                flag = int.TryParse(Console.ReadLine(), out P);
-            } while (!flag && Convert.ToString(P).Length==3 && P>0);
-            FindMax(P);
+                do
+                {
+                    Console.WriteLine("Введите P: ");
+                    flag = int.TryParse(Console.ReadLine(), out P);
+                } while (!flag || Convert.ToString(P).Length != 3 || P <= 0);
+                FindMax(P);
+                Console.WriteLine("Для выхода из программы нажмите [Esc]. Чтобы повторить решение нажмите [Enter]");
+            } while (Console.ReadKey().Key != ConsoleKey.Escape);
+            
         }
     }
 }

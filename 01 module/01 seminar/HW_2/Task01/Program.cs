@@ -30,16 +30,21 @@ namespace Task01
         {
             double x;
             bool flag;
-            do
-            {
-                Console.WriteLine("Введите x: ");
-                flag = double.TryParse(Console.ReadLine(), out x);
-                double F = CalculateF(x);
-                if (flag) {
-                    Console.WriteLine("F(x) = " + F);
-                }
+            do {
+                do
+                {
+                    Console.WriteLine("Введите x: ");
+                    flag = double.TryParse(Console.ReadLine(), out x);
+                    double F = CalculateF(x);
+                    if (flag)
+                    {
+                        Console.WriteLine("F(x) = " + F);
+                    }
 
-            } while (!flag);
+                } while (!flag);
+                Console.WriteLine("Для выхода из программы нажмите [Esc]. Чтобы повторить решение нажмите [Enter]");
+            } while (Console.ReadKey().Key != ConsoleKey.Escape);
+            
         }
     }
 }
