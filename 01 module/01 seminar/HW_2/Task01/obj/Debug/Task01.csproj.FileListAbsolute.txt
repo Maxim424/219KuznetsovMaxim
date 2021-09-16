@@ -1,0 +1,6 @@
+/Users/maximkuznetsov/Projects/HW_2/Task01/bin/Debug/Task01.exe
+/Users/maximkuznetsov/Projects/HW_2/Task01/bin/Debug/Task01.pdb
+/Users/maximkuznetsov/Projects/HW_2/Task01/obj/Debug/Task01.csproj.AssemblyReference.cache
+/Users/maximkuznetsov/Projects/HW_2/Task01/obj/Debug/Task01.csproj.CoreCompileInputs.cache
+/Users/maximkuznetsov/Projects/HW_2/Task01/obj/Debug/Task01.exe
+/Users/maximkuznetsov/Projects/HW_2/Task01/obj/Debug/Task01.pdb
