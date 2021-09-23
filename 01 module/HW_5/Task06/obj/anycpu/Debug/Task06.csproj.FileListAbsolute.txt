@@ -1,0 +1,6 @@
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/HW_5/Task06/bin/Debug/Task06.exe
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/HW_5/Task06/bin/Debug/Task06.pdb
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/HW_5/Task06/obj/anycpu/Debug/Task06.csproj.AssemblyReference.cache
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/HW_5/Task06/obj/anycpu/Debug/Task06.csproj.CoreCompileInputs.cache
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/HW_5/Task06/obj/anycpu/Debug/Task06.exe
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/HW_5/Task06/obj/anycpu/Debug/Task06.pdb
