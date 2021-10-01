@@ -40,9 +40,19 @@ namespace Task03
 
             } while (a1 == b1);
             mas[a1] = mas[b1];
-            int sum = 0;
-            int xor;
-
+            int xor1 = 0;
+            int xor2 = 0;
+            for (int i = 1; i <= 100; i++)
+            {
+                xor1 ^= i;
+            }
+            for (int i = 0; i < mas.Length; i++)
+            {
+                xor2 ^= mas[i];
+            }
+            Array.Sort(mas);
+            Print(mas);
+            Console.WriteLine(xor1-xor2);
         }
     }
 }

@@ -1,18 +1,13 @@
-﻿<Properties StartupConfiguration="{E124C84D-26D1-49B8-BDA5-20DA8165061A}|Default">
-  <MonoDevelop.Ide.ItemProperties.Task01 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Task03 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Task02 PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{C88F27F9-7963-4669-A442-3C385F4CC18B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Task03 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Task03/Program.cs">
     <Files>
-      <File FileName="Task02/Program.cs" Line="15" Column="10" />
-      <File FileName="Task03/Program.cs" Line="53" Column="29" />
+      <File FileName="Task03/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CW_7" expanded="True">
-            <Node name="Task01" expanded="True" />
-            <Node name="Task02" expanded="True" />
+          <Node name="HW_7" expanded="True">
             <Node name="Task03" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>

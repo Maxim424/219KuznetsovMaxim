@@ -1,0 +1,5 @@
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_8/Task04/bin/Debug/Task04.exe
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_8/Task04/bin/Debug/Task04.pdb
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_8/Task04/obj/anycpu/Debug/Task04.csproj.CoreCompileInputs.cache
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_8/Task04/obj/anycpu/Debug/Task04.exe
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_8/Task04/obj/anycpu/Debug/Task04.pdb
