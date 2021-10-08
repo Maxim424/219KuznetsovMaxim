@@ -19,7 +19,7 @@ namespace Task01
                 {
                     uint ai = (uint)(n / Math.Pow(10, i )) % 10;
                     uint aj = (uint)(n / Math.Pow(10, j )) % 10;
-                    if (aj>ai)
+                    if (aj<ai)
                     {
                         uint c = ai;
                         ai = aj;

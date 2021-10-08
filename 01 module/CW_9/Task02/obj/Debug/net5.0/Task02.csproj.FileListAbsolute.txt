@@ -1,0 +1,15 @@
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_9/Task02/bin/Debug/net5.0/Task02.deps.json
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_9/Task02/bin/Debug/net5.0/Task02.runtimeconfig.json
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_9/Task02/bin/Debug/net5.0/Task02.runtimeconfig.dev.json
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_9/Task02/bin/Debug/net5.0/Task02.dll
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_9/Task02/bin/Debug/net5.0/ref/Task02.dll
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_9/Task02/bin/Debug/net5.0/Task02.pdb
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_9/Task02/obj/Debug/net5.0/Task02.csproj.AssemblyReference.cache
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_9/Task02/obj/Debug/net5.0/Task02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_9/Task02/obj/Debug/net5.0/Task02.AssemblyInfoInputs.cache
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_9/Task02/obj/Debug/net5.0/Task02.AssemblyInfo.cs
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_9/Task02/obj/Debug/net5.0/Task02.csproj.CoreCompileInputs.cache
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_9/Task02/obj/Debug/net5.0/Task02.dll
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_9/Task02/obj/Debug/net5.0/ref/Task02.dll
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_9/Task02/obj/Debug/net5.0/Task02.pdb
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_9/Task02/obj/Debug/net5.0/Task02.genruntimeconfig.cache
