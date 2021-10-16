@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_9/Task05/Task05.csproj": {}
+  },
+  "projects": {
+    "/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_9/Task05/Task05.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_9/Task05/Task05.csproj",
+        "projectName": "Task05",
+        "projectPath": "/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_9/Task05/Task05.csproj",
+        "packagesPath": "/Users/maximkuznetsov/.nuget/packages/",
+        "outputPath": "/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/01 module/CW_9/Task05/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/maximkuznetsov/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
