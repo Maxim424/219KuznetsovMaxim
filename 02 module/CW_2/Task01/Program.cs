@@ -56,12 +56,12 @@ namespace Task01
 
         static public MyComplex operator *(MyComplex mc1, MyComplex mc2)
         {
-            return new MyComplex(mc1.Re*mc2.Re - mc1.Im*mc2.Im, mc1.Im*mc2.Re +mc1.Re*mc2.Im);
+            return new MyComplex(mc1.Re * mc2.Re - mc1.Im * mc2.Im, mc1.Im * mc2.Re + mc1.Re * mc2.Im);
         }
 
         static public MyComplex operator /(MyComplex mc1, MyComplex mc2)
         {
-            return new MyComplex((mc1.Re*mc2.Re + mc1.Im*mc2.Im)/(mc2.Re* mc2.Re + mc2.Im * mc2.Im), (mc1.Im*mc2.Re - mc1.Re*mc2.Im)/(mc2.Re * mc2.Re + mc2.Im * mc2.Im));
+            return new MyComplex((mc1.Re * mc2.Re + mc1.Im * mc2.Im) / (mc2.Re * mc2.Re + mc2.Im * mc2.Im), (mc1.Im * mc2.Re - mc1.Re * mc2.Im) / (mc2.Re * mc2.Re + mc2.Im * mc2.Im));
         }
 
         public override string ToString()
@@ -76,7 +76,12 @@ namespace Task01
     {
         static void Main(string[] args)
         {
-            
+            MyComplex mc1 = new MyComplex(3, 4);
+            MyComplex mc2 = new MyComplex(1, 2);
+            Console.WriteLine(mc1 + mc2);
+            Console.WriteLine(mc1 - mc2);
+            Console.WriteLine(mc1 * mc2);
+            Console.WriteLine(mc1 / mc2);
         }
     }
 }
