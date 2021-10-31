@@ -1,0 +1,15 @@
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/02 module/HW_1/Task01/bin/Debug/net5.0/Task01.deps.json
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/02 module/HW_1/Task01/bin/Debug/net5.0/Task01.runtimeconfig.json
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/02 module/HW_1/Task01/bin/Debug/net5.0/Task01.runtimeconfig.dev.json
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/02 module/HW_1/Task01/bin/Debug/net5.0/Task01.dll
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/02 module/HW_1/Task01/bin/Debug/net5.0/ref/Task01.dll
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/02 module/HW_1/Task01/bin/Debug/net5.0/Task01.pdb
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/02 module/HW_1/Task01/obj/Debug/net5.0/Task01.csproj.AssemblyReference.cache
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/02 module/HW_1/Task01/obj/Debug/net5.0/Task01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/02 module/HW_1/Task01/obj/Debug/net5.0/Task01.AssemblyInfoInputs.cache
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/02 module/HW_1/Task01/obj/Debug/net5.0/Task01.AssemblyInfo.cs
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/02 module/HW_1/Task01/obj/Debug/net5.0/Task01.csproj.CoreCompileInputs.cache
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/02 module/HW_1/Task01/obj/Debug/net5.0/Task01.dll
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/02 module/HW_1/Task01/obj/Debug/net5.0/ref/Task01.dll
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/02 module/HW_1/Task01/obj/Debug/net5.0/Task01.pdb
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/02 module/HW_1/Task01/obj/Debug/net5.0/Task01.genruntimeconfig.cache
