@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{9F372204-C7F3-4293-89B0-B34DB4C5FDFF}|Default">
+﻿<Properties StartupConfiguration="{06C4FC4A-73BF-4EEB-A944-046DB1F9DC20}|Default">
   <MonoDevelop.Ide.ItemProperties.Task01 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Task01/Program.cs">
     <Files>
-      <File FileName="Task01/Program.cs" Line="84" Column="40" />
+      <File FileName="Task01/Program.cs" Line="31" Column="47" />
+      <File FileName="Task01/VideoFile.cs" Line="33" Column="46" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CW_2" expanded="True">
+          <Node name="HW_3" expanded="True">
             <Node name="Task01" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
