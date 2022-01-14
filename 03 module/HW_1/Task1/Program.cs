@@ -22,7 +22,7 @@ namespace Task1
         public static int CalculateExponent(double x)
         {
             int t = (int)x;
-            return t.ToString().Length - 1;
+            return t.ToString().Length;
         }
 
         static void Main(string[] args)
@@ -42,7 +42,7 @@ namespace Task1
             Cast cast2 = delegate (double x)
             {
                 int t = (int)x;
-                return t.ToString().Length - 1;
+                return t.ToString().Length;
             };
             Console.WriteLine("Введите вещественное число:");
             double num = double.Parse(Console.ReadLine());
@@ -55,9 +55,9 @@ namespace Task1
 
             Cast lambdaCast = x => (int)x + (int)x % 2;
             Console.WriteLine($"lambdaCast1: {lambdaCast.Invoke(num)}");
-            lambdaCast += x => ((int)x).ToString().Length - 1;
+            lambdaCast += x => ((int)x).ToString().Length;
             Console.WriteLine($"lambdaCast2: {lambdaCast.Invoke(num)}");
-            lambdaCast -= x => ((int)x).ToString().Length - 1;
+            lambdaCast -= x => ((int)x).ToString().Length;
             Console.WriteLine($"lambdaCast: {lambdaCast.Invoke(num)}");
 
             Cast MethodCast = ToTheNearestEven;
