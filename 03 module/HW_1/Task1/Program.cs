@@ -23,6 +23,7 @@ namespace Task1
         {
             int t = (int)x;
             return t.ToString().Length;
+            
         }
 
         static void Main(string[] args)
