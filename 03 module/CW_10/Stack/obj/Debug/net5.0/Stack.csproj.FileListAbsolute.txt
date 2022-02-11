@@ -1,0 +1,15 @@
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/03 module/CW_10/Stack/bin/Debug/net5.0/Stack.deps.json
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/03 module/CW_10/Stack/bin/Debug/net5.0/Stack.runtimeconfig.json
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/03 module/CW_10/Stack/bin/Debug/net5.0/Stack.runtimeconfig.dev.json
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/03 module/CW_10/Stack/bin/Debug/net5.0/Stack.dll
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/03 module/CW_10/Stack/bin/Debug/net5.0/ref/Stack.dll
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/03 module/CW_10/Stack/bin/Debug/net5.0/Stack.pdb
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/03 module/CW_10/Stack/obj/Debug/net5.0/Stack.csproj.AssemblyReference.cache
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/03 module/CW_10/Stack/obj/Debug/net5.0/Stack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/03 module/CW_10/Stack/obj/Debug/net5.0/Stack.AssemblyInfoInputs.cache
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/03 module/CW_10/Stack/obj/Debug/net5.0/Stack.AssemblyInfo.cs
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/03 module/CW_10/Stack/obj/Debug/net5.0/Stack.csproj.CoreCompileInputs.cache
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/03 module/CW_10/Stack/obj/Debug/net5.0/Stack.dll
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/03 module/CW_10/Stack/obj/Debug/net5.0/ref/Stack.dll
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/03 module/CW_10/Stack/obj/Debug/net5.0/Stack.pdb
+/Users/maximkuznetsov/Documents/GitHub/219KuznetsovMaxim/03 module/CW_10/Stack/obj/Debug/net5.0/Stack.genruntimeconfig.cache
