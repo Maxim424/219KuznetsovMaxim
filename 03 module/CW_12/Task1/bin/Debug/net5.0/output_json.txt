@@ -1,0 +1,1 @@
+[{"Title":"group 1","Students":[{"LastName":"Mike","Course":1},{"LastName":"Bob","Course":2}]},{"Title":"group 2","Students":[{"LastName":"Dany","Course":3},{"LastName":"Michael","Course":4}]}]
