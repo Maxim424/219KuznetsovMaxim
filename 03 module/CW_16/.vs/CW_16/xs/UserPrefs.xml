@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{1457FEBE-B843-40A1-BDAE-8CE2D9B8DE1D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task1/Pages/Index.cshtml">
+    <Files>
+      <File FileName="Task1/Pages/Privacy.cshtml" Line="8" Column="78" />
+      <File FileName="Task1/Pages/Privacy.cshtml.cs" Line="22" Column="69" />
+      <File FileName="Task1/Pages/Index.cshtml" Line="2" Column="18" />
+      <File FileName="Task1/Pages/SqEq.cshtml" Line="14" Column="42" />
+      <File FileName="Task1/Pages/SqEq.cshtml.cs" Line="52" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CW_16" expanded="True">
+            <Node name="Task1" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" expanded="True" selected="True" />
+                <Node name="SqEq.cshtml" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task1 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
